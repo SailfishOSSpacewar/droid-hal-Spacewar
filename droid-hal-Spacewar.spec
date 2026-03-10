@@ -1,10 +1,10 @@
-%define device FP5
-%define vendor fairphone
+%define device Spacewar
+%define vendor nothing
 
-%define rpm_device fp5
+%define rpm_device Spacewar
 
-%define vendor_pretty Fairphone
-%define device_pretty Fairphone 5
+%define vendor_pretty Nothing
+%define device_pretty phone (1)
 
 %define droid_target_aarch64 1
 

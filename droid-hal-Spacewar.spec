@@ -1,7 +1,7 @@
 %define device Spacewar
 %define vendor nothing
 
-%define rpm_device Spacewar
+%define rpm_device spacewar
 
 %define vendor_pretty Nothing
 %define device_pretty phone (1)

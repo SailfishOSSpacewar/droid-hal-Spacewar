@@ -1,10 +1,10 @@
-%define device Spacewar
+%define device spacewar
 %define vendor nothing
 
 %define rpm_device spacewar
 
 %define vendor_pretty Nothing
-%define device_pretty phone (1)
+%define device_pretty Phone (1)
 
 %define droid_target_aarch64 1
 
